@@ -1,0 +1,15 @@
+﻿Build started 8/24/2015 12:42:22 PM.
+     1>Project "C:\Users\Sairento\Desktop\New folder\Homework\Homework-master\Variables\Project3\Project3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp "Condition .cpp"
+         Condition .cpp
+     1>c:\users\sairento\desktop\new folder\homework\homework-master\variables\project3\condition .cpp(3): error C2143: syntax error: missing ';' before 'using namespace'
+     1>c:\users\sairento\desktop\new folder\homework\homework-master\variables\project3\condition .cpp(4): error C2447: '{': missing function header (old-style formal list?)
+         Source.cpp
+     1>c:\users\sairento\desktop\new folder\homework\homework-master\variables\project3\source.cpp(20): error C2065: 'gtemp': undeclared identifier
+         Generating Code...
+     1>Done Building Project "C:\Users\Sairento\Desktop\New folder\Homework\Homework-master\Variables\Project3\Project3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.11

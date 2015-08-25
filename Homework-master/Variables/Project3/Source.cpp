@@ -17,7 +17,7 @@ int main()
 	std::cout << "Type the value of b: ";
 	std::cin >> b;
 
-	temp = a;
+	gtemp = a;
 	a = b;
 	b = temp;
 	std::cout << "The value of a is " << a << std::endl;
